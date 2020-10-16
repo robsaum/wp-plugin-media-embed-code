@@ -2,7 +2,7 @@
 /*
 * Plugin Name: WordPress Plugin Media Embed Code Maker
 * Description: Shortcode to create embed code for YouTube and Piktochart
-* Version: 2.0
+* Version: 1.1
 * Author: Rob Saum
 * Author URI: https://www.robsaum.com
 */
