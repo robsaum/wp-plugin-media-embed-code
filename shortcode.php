@@ -45,7 +45,7 @@ function youtube_emebed_function( $atts, $youtube_shortcode = null ) {
 	}
 }
 
-add_shortcode('yt', 'youtube_emebed_function');
+add_shortcode('scYouTube', 'youtube_emebed_function');
 
 
 
@@ -83,5 +83,5 @@ function piktochart_emebed_function( $atts, $piktochart_shortcode = null) {
 }
 
 
-add_shortcode('pc', 'piktochart_emebed_function');
+add_shortcode('scPikto', 'piktochart_emebed_function');
 ?>
